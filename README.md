@@ -8,7 +8,7 @@
  
  👥 CONTRIBUTORS » Σ Я F Λ П ( w_erfan_86 )
  
- 🔗 GIT » https://github.com
+ 🔗 GIT » https://github.com/RAri83/crafttech-status-bot/
  
  📌 DESCRIPTION » If you don't have the ability to edit the code, please don't touch it.
  
