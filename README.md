@@ -21,51 +21,12 @@ FARSI :
 ماژول های نیاز رو میتونید به 2 روش زیر نصب کنید :
 
 # نصب بصورت کلی و هم زمان :
+فایل هارو ذخیره کنید و داخل همون پوشه حالا یا با visual studio code یا cmd دستور npm i رو تایپ کنید تا کل پکیجا نصب بشه و بعد پیکربندی env. رو انجام بدید و با npm start ربات رو اجرا کنید.
+میتونید از فایل های start.bat یا start.sh هم استفاده کنید.
 
-npm init -y
+قابلیت های نسخه 3 »
+<img width="694" height="377" alt="image" src="https://github.com/user-attachments/assets/bfc80ae0-3c92-46a7-b81f-a4a1110cbfdc" />
+<img width="766" height="377" alt="image" src="https://github.com/user-attachments/assets/b743f543-5407-4ae9-bc18-128a0f95704a" />
+<img width="753" height="356" alt="image" src="https://github.com/user-attachments/assets/17808a18-743f-498c-9c14-dc7ce978e367" />
 
-npm i discord.js@14 dotenv node-fetch ping
-
-# نصب بصورت تکی :
-
-npm init -y
-
-npm i discord.js@14
-
-npm i dotenv
-
-npm i node-fetch
-
-npm i ping
-
-برای شروع ربات کافیه فایل start.bat را اجرا کنید.
-
-اگر کاربر لینوکس هستید دستور ./start.sh رو اجرا کنید
-
-ENGLISH :
-
-To install the bot, you just need to install the required modules and then start the bot.
-
-You can install the required modules in two ways:
-
-# Install all at once:
-
-npm init -y
-
-npm i discord.js@14 dotenv node-fetch ping
-
-# Install individually:
-
-npm init -y
-
-npm i discord.js@14
-
-npm i dotenv
-
-npm i node-fetch
-
-npm i ping
-
-To start the bot, simply run the start.bat file.
-
-If you are using Linux, run the command ./start.sh
+موفق باشید :)
