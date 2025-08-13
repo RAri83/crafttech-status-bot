@@ -1,0 +1,31 @@
+{
+  "name": "crafttech-tracker-template",
+  "version": "3.0.0",
+  "description": "Advanced Minecraft Server Status Tracker Bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "discord",
+    "bot",
+    "status",
+    "tracker",
+    "monitoring"
+  ],
+  "author": "Farinosa, w_erfan_86 @ CraftTech Studios",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.5.0",
+    "chartjs-node-canvas": "^5.0.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "node-fetch": "^3.3.2",
+    "ping": "^0.4.4"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
